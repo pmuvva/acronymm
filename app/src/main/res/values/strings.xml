@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Acronym</string>
+    <string name="search">Search</string>
+    <string name="no_data_found">No data found. Enter a new search term above.</string>
+</resources>
